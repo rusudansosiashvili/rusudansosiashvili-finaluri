@@ -1,0 +1,223 @@
+
+header {
+   background-color: thistle;
+}
+
+#logo  {
+    height: 50px;
+    width: 300px;
+    
+}
+
+
+#pages { width: 95%;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+ul  li {
+ display: inline-block;
+ padding: 5px 10px;
+}
+
+ul li a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    
+}
+
+ul li a:hover {
+    color: blueviolet;
+}
+
+footer, footer p{
+    background-color: thistle;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px 5px;
+        text-align: center;
+  
+}
+
+
+.linkedin {
+    height: 25px;
+    width: 25px;
+}
+
+.mail {
+    height: 25px;
+    width: 25px;
+
+}
+
+.facebook {
+    height: 25px;
+    width: 25px;
+}
+
+.instagram {
+    height: 25px;
+    width: 25px;
+}
+
+
+.portfolio_title {
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.portfolio_text {
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+
+
+.project_title {
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 35px;
+
+}
+
+.project_text {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: thistle;
+}
+
+.project_image {
+    width: 300;
+    height: 400px;
+   margin-left: 37%;
+}
+
+
+.project_title2 {
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 35px;
+
+}
+
+
+.project_text2 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: thistle;
+}
+
+.project_image2 {
+    width: 400px;
+    height: 400px;
+    margin-left: 37%;
+}
+
+
+.project_title3 {
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 35px;
+
+}
+
+.project_text3 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: thistle;
+    font-weight: bold;
+}
+
+.project_image3 {
+    width: 400px;
+    height: 400px;
+    margin-left: 37%;
+}
+
+
+.project_title4 {
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 35px;
+
+}
+
+.project_text4 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: thistle;
+    font-weight: bold;
+}
+
+.project_image4 {
+    width: 400px;
+    height: 400px;
+    margin-left: 37%;
+    
+}
+
+
+form div {
+    margin-bottom: 15px;
+}
+
+form textarea {
+    height: 300px;
+    width: 600px;
+}
+
+
+.aboutme_title {
+    text-align: center;
+    font-size: 35px;
+    color: blueviolet;
+
+}
+
+.aboutme_text {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.aboutme_pic {
+    width: 600px;
+    height: 400px;
+  margin-left: 30%;
+}
+
+
+
+
+
